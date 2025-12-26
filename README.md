@@ -2,7 +2,7 @@
   <img src="./screen.png" alt="OktoOS" width="40%" />
 </p>
 <p align="center">
-  <img src="./logo/logo_color.png" alt="OktoOS" width="40%" />
+  <img src="./logo_color.png" alt="OktoOS" width="40%" />
 </p>
 
 <h1 align="center">OktoOS</h1>
